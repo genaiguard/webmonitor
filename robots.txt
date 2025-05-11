@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://webmonitor.fyi
+
+# Sitemaps
+Sitemap: https://webmonitor.fyi/sitemap.xml
