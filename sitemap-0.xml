@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://webmonitor.fyi</loc><lastmod>2025-08-07T06:39:10.129Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://webmonitor.fyi/auth-test</loc><lastmod>2025-08-07T06:39:10.130Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://webmonitor.fyi/auth/forgot-password</loc><lastmod>2025-08-07T06:39:10.130Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://webmonitor.fyi/auth/signin</loc><lastmod>2025-08-07T06:39:10.130Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://webmonitor.fyi/auth/signup</loc><lastmod>2025-08-07T06:39:10.130Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://webmonitor.fyi/blog</loc><lastmod>2025-08-07T06:39:10.130Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://webmonitor.fyi/contact</loc><lastmod>2025-08-07T06:39:10.130Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://webmonitor.fyi/dashboard</loc><lastmod>2025-08-07T06:39:10.130Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://webmonitor.fyi/pricing</loc><lastmod>2025-08-07T06:39:10.130Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://webmonitor.fyi/privacy</loc><lastmod>2025-08-07T06:39:10.130Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://webmonitor.fyi/terms</loc><lastmod>2025-08-07T06:39:10.130Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/auth-test</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/auth/forgot-password</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/auth/signin</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/auth/signup</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/blog</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/contact</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/dashboard</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/pricing</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/privacy</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/terms</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/blog/page/2</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/blog/page/3</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://webmonitor.fyi/blog/page/4</loc><lastmod>2025-08-07T06:58:32.249Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://webmonitor.fyi/blog/advanced-government-policy-monitoring-guide</loc><lastmod>2024-01-20T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://webmonitor.fyi/blog/ai-understanding-content-like-humans</loc><lastmod>2024-01-05T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://webmonitor.fyi/blog/art-auction-monitoring-visual-price-tracking</loc><lastmod>2024-01-25T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
