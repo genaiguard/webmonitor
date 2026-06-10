@@ -1,0 +1,21 @@
+{
+  "name": "WebMonitor.fyi",
+  "short_name": "WebMonitor",
+  "description": "AI-powered website monitoring with alerts in plain English.",
+  "start_url": "./dashboard",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "icons": [
+    {
+      "src": "./images/robot-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/robot-logo-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
